@@ -2,7 +2,7 @@
 Automatic farming script for BlockMesh Network Extension using proxies
 ### Tools and components required
 1. BlockMesh Account | Register: [https://app.blockmesh.xyz/register](https://app.blockmesh.xyz/register?invite_code=eeab9a1b-08a3-40b0-950a-cf4c681e0a69)
-2. Proxies Static Residental || Good Premium Proxies (paid): [922proxy]([https://www.922proxy.com/register?inviter_code=82fded26)
+2. Proxies Static Residental || Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=82fded26)
 3. VPS or RDP (OPTIONAL)
 4. Python version 3.10
 # Installation
